@@ -1,2 +1,0 @@
-drivers/fingerprint/fingerprint_sysfs.o
-__class_create __this_module class_destroy device_create device_create_file device_remove_file printk

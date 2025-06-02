@@ -1,8 +1,0 @@
-__crc_get_random_bytes = 0x79aa04a2;
-__crc_get_random_u64 = 0xe3ff2c41;
-__crc_get_random_u32 = 0xd36dc10c;
-__crc_add_device_randomness = 0x2fb6de5d;
-__crc_misc_register = 0xde7c47f7;
-__crc_misc_deregister = 0x2e5ef8c7;
-__crc_hwrng_register = 0x6cfb19d0;
-__crc_hwrng_unregister = 0xb605aeff;

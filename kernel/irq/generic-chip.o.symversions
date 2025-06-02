@@ -1,7 +1,0 @@
-__crc_irq_gc_mask_set_bit = 0xb7bfe566;
-__crc_irq_gc_mask_clr_bit = 0xb3a4bc8f;
-__crc_irq_gc_ack_set_bit = 0x52205d5a;
-__crc___irq_alloc_domain_generic_chips = 0x2069bbd8;
-__crc_irq_get_domain_generic_chip = 0x725742dc;
-__crc_irq_generic_chip_ops = 0xf3163726;
-__crc_irq_setup_alt_chip = 0xd6d405ba;

@@ -1,1 +1,0 @@
-cmd_drivers/input/misc/built-in.a := rm -f drivers/input/misc/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/input/misc/built-in.a.symversions; done; rm -f drivers/input/misc/built-in.a; llvm-ar cDPrST drivers/input/misc/built-in.a drivers/input/misc/uinput.o

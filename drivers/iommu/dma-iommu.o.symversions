@@ -1,5 +1,0 @@
-__crc_iommu_get_dma_cookie = 0xbc1055ad;
-__crc_iommu_put_dma_cookie = 0x0274f5f9;
-__crc_iommu_dma_get_resv_regions = 0x98f6a888;
-__crc_iommu_dma_reserve_iova = 0xe1b9c621;
-__crc_iommu_dma_enable_best_fit_algo = 0x85a91cd5;

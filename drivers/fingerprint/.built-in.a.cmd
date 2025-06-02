@@ -1,1 +1,0 @@
-cmd_drivers/fingerprint/built-in.a := rm -f drivers/fingerprint/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/fingerprint/built-in.a.symversions; done; rm -f drivers/fingerprint/built-in.a; llvm-ar cDPrST drivers/fingerprint/built-in.a 

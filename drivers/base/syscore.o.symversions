@@ -1,2 +1,0 @@
-__crc_register_syscore_ops = 0xb9c425de;
-__crc_unregister_syscore_ops = 0xfa1eb910;

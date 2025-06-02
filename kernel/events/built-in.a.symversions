@@ -1,6 +1,0 @@
-__crc_perf_event_disable = 0x61f48dff;
-__crc_perf_event_enable = 0x6f63d7f3;
-__crc_perf_event_release_kernel = 0xdc777035;
-__crc_perf_event_read_value = 0x8b6838af;
-__crc_perf_trace_run_bpf_submit = 0xb821fac8;
-__crc_perf_event_create_kernel_counter = 0x811f8166;

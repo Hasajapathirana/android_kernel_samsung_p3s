@@ -1,2 +1,0 @@
-__crc_smpboot_register_percpu_thread = 0x4ee10c53;
-__crc_smpboot_unregister_percpu_thread = 0xffe2ec81;

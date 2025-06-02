@@ -1,2 +1,0 @@
-drivers/input/sec_input/sec_secure_touch.o
-__mutex_init __platform_driver_register __this_module _dev_err _dev_info kfree kmalloc_caches kmem_cache_alloc_trace mutex_lock mutex_unlock printk sec_device_create sec_device_destroy snprintf sysfs_create_group sysfs_create_link sysfs_notify sysfs_remove_group sysfs_remove_link

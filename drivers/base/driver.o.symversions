@@ -1,6 +1,0 @@
-__crc_driver_find_device = 0xafba7928;
-__crc_driver_create_file = 0xa4dd91f3;
-__crc_driver_remove_file = 0x3f46f373;
-__crc_driver_register = 0x025a2aec;
-__crc_driver_unregister = 0xaf25e5c0;
-__crc_driver_find = 0x8c1183c3;

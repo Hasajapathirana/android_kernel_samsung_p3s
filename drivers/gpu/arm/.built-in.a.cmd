@@ -1,1 +1,0 @@
-cmd_drivers/gpu/arm/built-in.a := rm -f drivers/gpu/arm/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/gpu/arm/built-in.a.symversions; done; rm -f drivers/gpu/arm/built-in.a; llvm-ar cDPrST drivers/gpu/arm/built-in.a 

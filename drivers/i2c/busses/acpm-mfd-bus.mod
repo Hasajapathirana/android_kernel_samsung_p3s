@@ -1,2 +1,0 @@
-drivers/i2c/busses/acpm-mfd-bus.o
-__platform_driver_register __this_module _dev_err _dev_info devm_kmalloc i2c_add_numbered_adapter platform_driver_unregister strlcpy

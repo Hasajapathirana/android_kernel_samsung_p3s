@@ -1,3 +1,0 @@
-__crc_rt_mutex_lock = 0xd67c01fd;
-__crc_rt_mutex_trylock = 0x393b2d61;
-__crc_rt_mutex_unlock = 0x28dd5a05;

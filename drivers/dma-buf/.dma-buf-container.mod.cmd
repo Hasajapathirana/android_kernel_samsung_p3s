@@ -1,1 +1,0 @@
-cmd_drivers/dma-buf/dma-buf-container.mod := { echo  drivers/dma-buf/dma-buf-container.o; llvm-nm drivers/dma-buf/dma-buf-container.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/dma-buf/dma-buf-container.mod

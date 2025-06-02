@@ -1,3 +1,0 @@
-__crc_vfs_setxattr = 0xeb534475;
-__crc_vfs_getxattr = 0x09e82112;
-__crc_vfs_listxattr = 0x892252e0;

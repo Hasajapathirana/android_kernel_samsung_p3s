@@ -1,3 +1,0 @@
-drivers/i2c/busses/i2c-exynos5.ko
-drivers/i2c/busses/acpm-mfd-bus.ko
-drivers/i2c/i2c-dev.ko

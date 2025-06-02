@@ -1,1 +1,0 @@
-cmd_security/samsung/mz/built-in.a := rm -f security/samsung/mz/built-in.a.symversions; for i in ; do cat $$i.symversions >> security/samsung/mz/built-in.a.symversions; done; rm -f security/samsung/mz/built-in.a; llvm-ar cDPrST security/samsung/mz/built-in.a 

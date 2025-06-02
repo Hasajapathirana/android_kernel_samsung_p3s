@@ -1,6 +1,0 @@
-__crc_trace_print_flags_seq = 0x7ebd4be4;
-__crc_trace_print_symbols_seq = 0x61520529;
-__crc_trace_print_hex_seq = 0xc7d16b61;
-__crc_trace_print_array_seq = 0xcfb4a296;
-__crc_trace_raw_output_prep = 0xf378dd64;
-__crc_trace_output_call = 0x3b68b0a5;

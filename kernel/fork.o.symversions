@@ -1,6 +1,0 @@
-__crc___mmdrop = 0xec64fef9;
-__crc___put_task_struct = 0xa019feaf;
-__crc_mmput = 0xae27043b;
-__crc_get_mm_exe_file = 0x90647ef6;
-__crc_get_task_exe_file = 0x1ec941e0;
-__crc_get_task_mm = 0x27e368db;

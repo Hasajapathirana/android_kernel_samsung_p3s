@@ -1,7 +1,0 @@
-__crc_balance_dirty_pages_ratelimited = 0x8ddf6ff6;
-__crc_tag_pages_for_writeback = 0xeb555f54;
-__crc_redirty_page_for_writepage = 0x0562133d;
-__crc_set_page_dirty = 0x54cec896;
-__crc_set_page_dirty_lock = 0x34f829f3;
-__crc_clear_page_dirty_for_io = 0xcac02584;
-__crc___test_set_page_writeback = 0x7b6beb02;

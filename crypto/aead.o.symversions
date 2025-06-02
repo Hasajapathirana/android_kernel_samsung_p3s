@@ -1,6 +1,0 @@
-__crc_crypto_aead_setkey = 0x769557e7;
-__crc_crypto_aead_setauthsize = 0x2e4a69f8;
-__crc_crypto_aead_encrypt = 0x4e0057c4;
-__crc_crypto_alloc_aead = 0x535a86b5;
-__crc_crypto_register_aead = 0x7ccdf6d4;
-__crc_crypto_unregister_aead = 0x3837bd13;

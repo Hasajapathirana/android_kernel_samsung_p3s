@@ -1,5 +1,0 @@
-__crc_clk_fixed_factor_ops = 0xbd7bb311;
-__crc_clk_hw_register_fixed_factor = 0xa8e2c63d;
-__crc_clk_register_fixed_factor = 0x20d8d2c9;
-__crc_clk_unregister_fixed_factor = 0x45558f56;
-__crc_clk_hw_unregister_fixed_factor = 0x5d32e29f;

@@ -1,2 +1,0 @@
-drivers/input/sec_input/sec_tsp_log.o
-__arch_copy_from_user __arch_copy_to_user __check_object_size __mutex_init __this_module arm64_const_caps_ready cpu_hwcap_keys cpu_hwcaps free_pages generic_file_llseek get_zeroed_page kmalloc_order_trace mutex_lock mutex_unlock printk proc_create sched_clock scnprintf snprintf sscanf strlen vsnprintf

@@ -1,4 +1,0 @@
-__crc_kbase_find_device = 0x7411de17;
-__crc_kbase_release_device = 0xf6211305;
-__crc_kbase_event_wakeup = 0xf6850f48;
-__crc_kbase_event_pending = 0x8d300a4d;

@@ -1,1 +1,0 @@
-cmd_drivers/input/sec_input/sec_tclm_v2.mod := { echo  drivers/input/sec_input/sec_tclm_v2.o; llvm-nm drivers/input/sec_input/sec_tclm_v2.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/input/sec_input/sec_tclm_v2.mod

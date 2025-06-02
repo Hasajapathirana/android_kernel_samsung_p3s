@@ -1,1 +1,0 @@
-cmd_drivers/bts/exynos-btsops2100.mod := { echo  drivers/bts/exynos-btsops2100.o; llvm-nm drivers/bts/exynos-btsops2100.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/bts/exynos-btsops2100.mod

@@ -1,4 +1,0 @@
-__crc_clk_get_sys = 0xec4d9e3a;
-__crc_clk_get = 0xd4e8360e;
-__crc_clk_put = 0x2e1ca751;
-__crc_clk_register_clkdev = 0xc9822234;

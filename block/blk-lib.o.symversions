@@ -1,3 +1,0 @@
-__crc___blkdev_issue_discard = 0x57a66285;
-__crc_blkdev_issue_discard = 0x696c0906;
-__crc___blkdev_issue_zeroout = 0x52e6fb76;

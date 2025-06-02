@@ -1,4 +1,0 @@
-__crc_pm_generic_runtime_suspend = 0x4a30130c;
-__crc_pm_generic_runtime_resume = 0x5e7973c3;
-__crc_pm_generic_suspend = 0x67f276e3;
-__crc_pm_generic_resume = 0x9ef3113c;

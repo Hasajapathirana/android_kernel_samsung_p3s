@@ -1,7 +1,0 @@
-__crc___tracepoint_android_vh_ptype_head = 0x6696ea02;
-__crc___tracepoint_android_vh_kfree_skb = 0x7d552cd5;
-__crc___tracepoint_android_vh_is_fpsimd_save = 0xf6fb8799;
-__crc___tracepoint_android_vh_ipi_stop = 0xb5891373;
-__crc___tracepoint_android_vh_printk_store = 0x7a366615;
-__crc___tracepoint_android_vh_show_regs = 0x2510820f;
-__crc___tracepoint_android_vh_wq_lockup_pool = 0x3960091a;

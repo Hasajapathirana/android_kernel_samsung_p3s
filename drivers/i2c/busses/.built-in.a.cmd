@@ -1,1 +1,0 @@
-cmd_drivers/i2c/busses/built-in.a := rm -f drivers/i2c/busses/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/i2c/busses/built-in.a.symversions; done; rm -f drivers/i2c/busses/built-in.a; llvm-ar cDPrST drivers/i2c/busses/built-in.a 

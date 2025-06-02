@@ -1,1 +1,0 @@
-cmd_drivers/iommu/samsung_iommu.o := rm -f drivers/iommu/samsung_iommu.o.symversions; for i in    ; do cat $$i.symversions >> drivers/iommu/samsung_iommu.o.symversions; done; rm -f drivers/iommu/samsung_iommu.o; llvm-ar rcsTP drivers/iommu/samsung_iommu.o drivers/iommu/samsung-iommu.o drivers/iommu/samsung-iommu-fault.o

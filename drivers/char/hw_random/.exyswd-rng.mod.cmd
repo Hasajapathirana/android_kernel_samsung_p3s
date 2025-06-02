@@ -1,1 +1,0 @@
-cmd_drivers/char/hw_random/exyswd-rng.mod := { echo  drivers/char/hw_random/exyswd-rng.o; llvm-nm drivers/char/hw_random/exyswd-rng.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/char/hw_random/exyswd-rng.mod

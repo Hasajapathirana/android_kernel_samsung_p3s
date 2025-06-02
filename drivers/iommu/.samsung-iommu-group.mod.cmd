@@ -1,1 +1,0 @@
-cmd_drivers/iommu/samsung-iommu-group.mod := { echo  drivers/iommu/samsung-iommu-group.o; llvm-nm drivers/iommu/samsung-iommu-group.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/iommu/samsung-iommu-group.mod

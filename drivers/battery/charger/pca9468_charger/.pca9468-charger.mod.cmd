@@ -1,1 +1,0 @@
-cmd_drivers/battery/charger/pca9468_charger/pca9468-charger.mod := { echo  drivers/battery/charger/pca9468_charger/pca9468_charger.o; llvm-nm drivers/battery/charger/pca9468_charger/pca9468-charger.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/battery/charger/pca9468_charger/pca9468-charger.mod

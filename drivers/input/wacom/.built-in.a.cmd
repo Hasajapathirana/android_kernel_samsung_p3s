@@ -1,1 +1,0 @@
-cmd_drivers/input/wacom/built-in.a := rm -f drivers/input/wacom/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/input/wacom/built-in.a.symversions; done; rm -f drivers/input/wacom/built-in.a; llvm-ar cDPrST drivers/input/wacom/built-in.a 

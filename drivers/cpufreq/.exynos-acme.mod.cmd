@@ -1,1 +1,0 @@
-cmd_drivers/cpufreq/exynos-acme.mod := { echo  drivers/cpufreq/exynos-acme.o; llvm-nm drivers/cpufreq/exynos-acme.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/cpufreq/exynos-acme.mod

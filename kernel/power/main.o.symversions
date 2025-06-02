@@ -1,2 +1,0 @@
-__crc_register_pm_notifier = 0x9cc4f70a;
-__crc_unregister_pm_notifier = 0x7681946c;

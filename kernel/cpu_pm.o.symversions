@@ -1,2 +1,0 @@
-__crc_cpu_pm_register_notifier = 0x444f1735;
-__crc_cpu_pm_unregister_notifier = 0x4f98d766;

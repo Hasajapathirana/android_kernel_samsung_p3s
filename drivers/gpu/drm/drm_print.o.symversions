@@ -1,7 +1,0 @@
-__crc___drm_printfn_info = 0xe317082a;
-__crc___drm_printfn_debug = 0xf824c7db;
-__crc_drm_printf = 0x28779e52;
-__crc_drm_dev_printk = 0x9b6bb860;
-__crc_drm_dev_dbg = 0x6ad2be9d;
-__crc_drm_dbg = 0x34a4640a;
-__crc_drm_err = 0xcd8b879a;

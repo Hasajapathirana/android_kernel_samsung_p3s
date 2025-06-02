@@ -1,4 +1,0 @@
-__crc_clk_mux_ops = 0x3316dc27;
-__crc_clk_register_mux = 0xf17e6282;
-__crc_clk_hw_register_mux = 0x58e2ae42;
-__crc_clk_hw_unregister_mux = 0xd8f6d137;

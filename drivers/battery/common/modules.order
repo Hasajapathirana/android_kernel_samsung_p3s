@@ -1,3 +1,0 @@
-drivers/battery/common/sec_direct_charger.ko
-drivers/battery/common/sec_pd.ko
-drivers/battery/common/sec-battery.ko

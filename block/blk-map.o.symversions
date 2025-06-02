@@ -1,4 +1,0 @@
-__crc_blk_rq_map_user_iov = 0x2329ea52;
-__crc_blk_rq_map_user = 0x78e47ba5;
-__crc_blk_rq_unmap_user = 0xaa13d1df;
-__crc_blk_rq_map_kern = 0xb3502f9b;

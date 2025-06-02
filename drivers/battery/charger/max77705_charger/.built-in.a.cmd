@@ -1,1 +1,0 @@
-cmd_drivers/battery/charger/max77705_charger/built-in.a := rm -f drivers/battery/charger/max77705_charger/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/battery/charger/max77705_charger/built-in.a.symversions; done; rm -f drivers/battery/charger/max77705_charger/built-in.a; llvm-ar cDPrST drivers/battery/charger/max77705_charger/built-in.a 

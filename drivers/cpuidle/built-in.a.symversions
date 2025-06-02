@@ -1,2 +1,0 @@
-__crc_cpuidle_pause_and_lock = 0xf553318d;
-__crc_cpuidle_resume_and_unlock = 0xcabe04de;

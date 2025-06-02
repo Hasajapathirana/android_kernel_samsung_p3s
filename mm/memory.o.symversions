@@ -1,9 +1,0 @@
-__crc_mm_trace_rss_stat = 0x1a8023ed;
-__crc_vm_insert_page = 0x7c791803;
-__crc_vm_map_pages = 0x0b5940ee;
-__crc_vmf_insert_pfn_prot = 0x40d15e8b;
-__crc_vmf_insert_pfn = 0x7f4a82a2;
-__crc_vmf_insert_mixed = 0xfb7990f0;
-__crc_remap_pfn_range = 0x7aa03f17;
-__crc_vm_iomap_memory = 0x9664c7d1;
-__crc_unmap_mapping_range = 0xb933462b;

@@ -1,1 +1,0 @@
-cmd_drivers/battery/common/sec_direct_charger.mod := { echo  drivers/battery/common/sec_direct_charger.o; llvm-nm drivers/battery/common/sec_direct_charger.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/battery/common/sec_direct_charger.mod

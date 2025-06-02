@@ -1,1 +1,0 @@
-cmd_drivers/battery/wireless/built-in.a := rm -f drivers/battery/wireless/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/battery/wireless/built-in.a.symversions; done; rm -f drivers/battery/wireless/built-in.a; llvm-ar cDPrST drivers/battery/wireless/built-in.a 

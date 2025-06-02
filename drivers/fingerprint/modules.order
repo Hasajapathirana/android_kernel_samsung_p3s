@@ -1,3 +1,0 @@
-drivers/fingerprint/fingerprint.ko
-drivers/fingerprint/fingerprint_sysfs.ko
-drivers/fingerprint/qbt2000_spidev.ko

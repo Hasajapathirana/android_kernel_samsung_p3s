@@ -1,7 +1,0 @@
-__crc_bus_for_each_dev = 0xa2fbb967;
-__crc_bus_find_device = 0xa6c29dcc;
-__crc_bus_register = 0x310f062d;
-__crc_bus_unregister = 0x965aed21;
-__crc_bus_register_notifier = 0xf0306cb6;
-__crc_bus_unregister_notifier = 0x729321b3;
-__crc_subsys_system_register = 0xe8d9364b;

@@ -1,4 +1,0 @@
-__crc_get_random_bytes = 0x79aa04a2;
-__crc_get_random_u64 = 0xe3ff2c41;
-__crc_get_random_u32 = 0xd36dc10c;
-__crc_add_device_randomness = 0x2fb6de5d;

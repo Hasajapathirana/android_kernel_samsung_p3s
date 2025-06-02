@@ -1,7 +1,0 @@
-drivers/input/sec_input/sec_tsp_log.ko
-drivers/input/sec_input/sec_tclm_v2.ko
-drivers/input/sec_input/sec_secure_touch.ko
-drivers/input/sec_input/sec_tsp_dumpkey.ko
-drivers/input/sec_input/sec_input_notifier.ko
-drivers/input/sec_input/sec_common_fn.ko
-drivers/input/sec_input/sec_cmd.ko

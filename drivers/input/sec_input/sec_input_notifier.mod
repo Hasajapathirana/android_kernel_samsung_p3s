@@ -1,2 +1,0 @@
-drivers/input/sec_input/sec_input_notifier.o
-__cfi_slowpath blocking_notifier_call_chain blocking_notifier_chain_register blocking_notifier_chain_unregister

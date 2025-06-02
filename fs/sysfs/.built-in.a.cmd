@@ -1,1 +1,0 @@
-cmd_fs/sysfs/built-in.a := rm -f fs/sysfs/built-in.a.symversions; for i in  fs/sysfs/file.o    fs/sysfs/symlink.o    fs/sysfs/group.o; do cat $$i.symversions >> fs/sysfs/built-in.a.symversions; done; rm -f fs/sysfs/built-in.a; llvm-ar cDPrST fs/sysfs/built-in.a fs/sysfs/file.o fs/sysfs/dir.o fs/sysfs/symlink.o fs/sysfs/mount.o fs/sysfs/group.o
