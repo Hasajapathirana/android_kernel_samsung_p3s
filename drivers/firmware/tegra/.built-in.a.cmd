@@ -1,0 +1,1 @@
+cmd_drivers/firmware/tegra/built-in.a := rm -f drivers/firmware/tegra/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/firmware/tegra/built-in.a.symversions; done; rm -f drivers/firmware/tegra/built-in.a; llvm-ar cDPrST drivers/firmware/tegra/built-in.a 

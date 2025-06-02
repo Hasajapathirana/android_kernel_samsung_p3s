@@ -1,0 +1,9 @@
+__crc_kmem_cache_create_usercopy = 0x3b20a73d;
+__crc_kmem_cache_create = 0xdbef1284;
+__crc_kmem_cache_destroy = 0xc73a6b5e;
+__crc_kmalloc_caches = 0xca6b9890;
+__crc_kmalloc_order = 0xbbe80fdb;
+__crc_kmalloc_order_trace = 0xb8b9f817;
+__crc_krealloc = 0xb1e12d81;
+__crc_kzfree = 0x7a4497db;
+__crc_ksize = 0x04ea5d10;

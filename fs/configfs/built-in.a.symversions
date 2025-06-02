@@ -1,0 +1,5 @@
+__crc_configfs_register_subsystem = 0x00cb5856;
+__crc_configfs_unregister_subsystem = 0x18bbccee;
+__crc_config_group_init_type_name = 0xe2bdf92c;
+__crc_config_item_put = 0x47a16ba9;
+__crc_config_group_init = 0x32b735e5;

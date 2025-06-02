@@ -1,0 +1,1 @@
+cmd_drivers/iio/pressure/built-in.a := rm -f drivers/iio/pressure/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/pressure/built-in.a.symversions; done; rm -f drivers/iio/pressure/built-in.a; llvm-ar cDPrST drivers/iio/pressure/built-in.a 

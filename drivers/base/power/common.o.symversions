@@ -1,0 +1,4 @@
+__crc_dev_pm_domain_attach = 0xb259c3f5;
+__crc_dev_pm_domain_attach_by_id = 0x58cf5ab9;
+__crc_dev_pm_domain_attach_by_name = 0x9f1d8b66;
+__crc_dev_pm_domain_detach = 0x0d5b1c21;

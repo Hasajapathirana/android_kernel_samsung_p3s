@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.a := rm -f drivers/input/keyboard/built-in.a.symversions; for i in    ; do cat $$i.symversions >> drivers/input/keyboard/built-in.a.symversions; done; rm -f drivers/input/keyboard/built-in.a; llvm-ar cDPrST drivers/input/keyboard/built-in.a drivers/input/keyboard/atkbd.o drivers/input/keyboard/gpio_keys.o

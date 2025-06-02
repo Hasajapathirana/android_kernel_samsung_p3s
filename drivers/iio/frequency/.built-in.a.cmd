@@ -1,0 +1,1 @@
+cmd_drivers/iio/frequency/built-in.a := rm -f drivers/iio/frequency/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/frequency/built-in.a.symversions; done; rm -f drivers/iio/frequency/built-in.a; llvm-ar cDPrST drivers/iio/frequency/built-in.a 

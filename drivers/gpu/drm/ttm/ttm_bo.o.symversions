@@ -1,0 +1,12 @@
+__crc_ttm_bo_add_to_lru = 0x3847651b;
+__crc_ttm_bo_del_sub_from_lru = 0x0f3c4925;
+__crc_ttm_bo_move_to_lru_tail = 0xc74e5d8d;
+__crc_ttm_bo_put = 0xad87c36c;
+__crc_ttm_bo_eviction_valuable = 0x8b931f0a;
+__crc_ttm_bo_validate = 0x2d3444a7;
+__crc_ttm_bo_init = 0xee3b2d4b;
+__crc_ttm_bo_dma_acc_size = 0xc1ad0c7a;
+__crc_ttm_bo_init_mm = 0xfe22fdee;
+__crc_ttm_bo_device_release = 0x25706281;
+__crc_ttm_bo_device_init = 0xa86b7734;
+__crc_ttm_bo_wait = 0x8dc62404;

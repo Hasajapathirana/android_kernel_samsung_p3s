@@ -1,0 +1,6 @@
+__crc_iio_device_alloc = 0x01f1cd8e;
+__crc_iio_device_free = 0xc35b0847;
+__crc_devm_iio_device_alloc = 0xa454785d;
+__crc___iio_device_register = 0x9427b462;
+__crc_iio_device_unregister = 0x8f197dcf;
+__crc___devm_iio_device_register = 0x7cfc93a4;

@@ -1,0 +1,4 @@
+__crc_crypto_register_rng = 0xf1071bff;
+__crc_crypto_unregister_rng = 0x7e0aa385;
+__crc_crypto_register_rngs = 0x048a53f9;
+__crc_crypto_unregister_rngs = 0xf7a12f58;

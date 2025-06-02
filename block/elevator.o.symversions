@@ -1,0 +1,11 @@
+__crc_elv_bio_merge_ok = 0x2c0979e6;
+__crc_elevator_alloc = 0x3ee63f81;
+__crc_elv_rqhash_del = 0xb83faf59;
+__crc_elv_rqhash_add = 0xde7afba6;
+__crc_elv_rb_add = 0x076316b2;
+__crc_elv_rb_del = 0x77e07923;
+__crc_elv_rb_find = 0xe9e8b013;
+__crc_elv_register = 0x3d06dd41;
+__crc_elv_unregister = 0xb5293579;
+__crc_elv_rb_former_request = 0x6bb3afe1;
+__crc_elv_rb_latter_request = 0x51119920;

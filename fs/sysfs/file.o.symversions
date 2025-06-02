@@ -1,0 +1,9 @@
+__crc_sysfs_notify = 0xd31abee8;
+__crc_sysfs_create_file_ns = 0x8d6b0b0f;
+__crc_sysfs_create_files = 0x5a36815e;
+__crc_sysfs_add_file_to_group = 0x574e41c2;
+__crc_sysfs_remove_file_ns = 0x647be4f9;
+__crc_sysfs_remove_files = 0x19ffe713;
+__crc_sysfs_remove_file_from_group = 0x6d19d43d;
+__crc_sysfs_create_bin_file = 0x07617b20;
+__crc_sysfs_remove_bin_file = 0xa7ee5c48;

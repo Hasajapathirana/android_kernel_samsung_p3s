@@ -1,0 +1,6 @@
+__crc_crypto_ahash_setkey = 0x1361b693;
+__crc_crypto_ahash_digest = 0xde84994d;
+__crc_crypto_alloc_ahash = 0xc58e7cf7;
+__crc_crypto_has_ahash = 0x34407691;
+__crc_crypto_register_ahash = 0xfb603a2f;
+__crc_crypto_unregister_ahash = 0x5907982b;

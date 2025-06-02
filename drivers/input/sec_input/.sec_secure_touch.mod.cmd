@@ -1,0 +1,1 @@
+cmd_drivers/input/sec_input/sec_secure_touch.mod := { echo  drivers/input/sec_input/sec_secure_touch.o; llvm-nm drivers/input/sec_input/sec_secure_touch.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/input/sec_input/sec_secure_touch.mod

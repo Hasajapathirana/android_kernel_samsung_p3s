@@ -1,0 +1,6 @@
+__crc_call_rcu = 0x28aa6a67;
+__crc_kfree_call_rcu = 0x19f462ab;
+__crc_synchronize_rcu = 0x6091797f;
+__crc_rcu_barrier = 0x60a13e90;
+__crc___rcu_read_lock = 0x8d522714;
+__crc___rcu_read_unlock = 0x2469810f;

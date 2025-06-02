@@ -1,0 +1,21 @@
+!<thin>
+//                                              178       `
+proca_identity.o/
+proca_fcntl.o/
+proca_task_descr.o/
+proca_certificate.asn1.o/
+proca_certificate.o/
+proca_table.o/
+proca_config.o/
+s_os/proca_storage_xattr.o/
+s_os/proca_lsm.o/
+
+/0              0           0     0     644     99540     `
+/18             0           0     0     644     120516    `
+/33             0           0     0     644     92472     `
+/53             0           0     0     644     7156      `
+/79             0           0     0     644     129492    `
+/100            0           0     0     644     106536    `
+/115            0           0     0     644     12292     `
+/131            0           0     0     644     99224     `
+/159            0           0     0     644     175788    `

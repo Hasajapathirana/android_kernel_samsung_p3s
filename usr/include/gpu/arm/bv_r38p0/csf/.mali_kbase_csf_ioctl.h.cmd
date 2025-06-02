@@ -1,0 +1,1 @@
+cmd_usr/include/gpu/arm/bv_r38p0/csf/mali_kbase_csf_ioctl.h := sh ./scripts/headers_install.sh include/uapi/gpu/arm/bv_r38p0/csf/mali_kbase_csf_ioctl.h usr/include/gpu/arm/bv_r38p0/csf/mali_kbase_csf_ioctl.h

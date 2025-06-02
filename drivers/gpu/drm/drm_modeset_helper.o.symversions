@@ -1,0 +1,3 @@
+__crc_drm_helper_mode_fill_fb_struct = 0x8be9df7a;
+__crc_drm_mode_config_helper_suspend = 0x935fddca;
+__crc_drm_mode_config_helper_resume = 0x96707d1a;

@@ -1,0 +1,7 @@
+__crc_drm_plane_create_alpha_property = 0x8c70b2b7;
+__crc_drm_plane_create_rotation_property = 0xf3fbc8a4;
+__crc_drm_rotation_simplify = 0xdf666902;
+__crc_drm_plane_create_zpos_property = 0x7ca71033;
+__crc_drm_plane_create_zpos_immutable_property = 0x4ed276a3;
+__crc_drm_atomic_normalize_zpos = 0xb7d2f30d;
+__crc_drm_plane_create_blend_mode_property = 0x5b067db7;

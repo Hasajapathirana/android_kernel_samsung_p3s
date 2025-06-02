@@ -1,0 +1,6 @@
+__crc___mark_inode_dirty = 0x2bf7e3a1;
+__crc_writeback_inodes_sb = 0xbd717f2c;
+__crc_try_to_writeback_inodes_sb = 0x1fb9e4df;
+__crc_sync_inodes_sb = 0x7d8c20fd;
+__crc_write_inode_now = 0x602c3f24;
+__crc_sync_inode_metadata = 0xbd4b561a;

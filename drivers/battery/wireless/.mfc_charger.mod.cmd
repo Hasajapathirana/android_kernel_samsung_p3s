@@ -1,0 +1,1 @@
+cmd_drivers/battery/wireless/mfc_charger.mod := { echo  drivers/battery/wireless/mfc_charger.o; llvm-nm drivers/battery/wireless/mfc_charger.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/battery/wireless/mfc_charger.mod

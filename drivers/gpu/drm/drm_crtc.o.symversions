@@ -1,0 +1,3 @@
+__crc_drm_crtc_from_index = 0xc1c78e68;
+__crc_drm_crtc_init_with_planes = 0x7af8620e;
+__crc_drm_crtc_cleanup = 0xeb8a6d8e;

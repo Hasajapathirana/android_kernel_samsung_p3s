@@ -1,0 +1,7 @@
+__crc___put_page = 0xcb35d5d7;
+__crc_put_pages_list = 0xf0009fee;
+__crc_mark_page_accessed = 0x9ecbcc54;
+__crc_lru_cache_add_file = 0x39f4ca77;
+__crc_release_pages = 0x59e2a3aa;
+__crc___pagevec_release = 0xe36eb500;
+__crc_pagevec_lookup_range_tag = 0xee142ca3;

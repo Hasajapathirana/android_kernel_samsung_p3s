@@ -1,0 +1,3 @@
+__crc_of_find_i2c_device_by_node = 0xf345f46f;
+__crc_of_find_i2c_adapter_by_node = 0xa3b2076c;
+__crc_of_get_i2c_adapter_by_node = 0x2db458e2;

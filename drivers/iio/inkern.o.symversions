@@ -1,0 +1,11 @@
+__crc_iio_map_array_register = 0x502bbfae;
+__crc_iio_map_array_unregister = 0x04af2c23;
+__crc_iio_channel_get = 0x7066d896;
+__crc_iio_channel_release = 0x7509d1dc;
+__crc_devm_iio_channel_get = 0x853fa0db;
+__crc_iio_read_channel_raw = 0x7f7e6ef4;
+__crc_iio_convert_raw_to_processed = 0xe2056463;
+__crc_iio_read_channel_processed = 0xe4d20457;
+__crc_iio_get_channel_type = 0xce2e0438;
+__crc_iio_write_channel_attribute = 0x7d7ea1d8;
+__crc_iio_write_channel_raw = 0x1b64bd1c;

@@ -1,0 +1,1 @@
+cmd_drivers/interconnect/built-in.a := rm -f drivers/interconnect/built-in.a.symversions; for i in  drivers/interconnect/core.o; do cat $$i.symversions >> drivers/interconnect/built-in.a.symversions; done; rm -f drivers/interconnect/built-in.a; llvm-ar cDPrST drivers/interconnect/built-in.a drivers/interconnect/core.o

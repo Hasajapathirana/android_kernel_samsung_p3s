@@ -1,0 +1,1 @@
+cmd_drivers/clk/bcm/built-in.a := rm -f drivers/clk/bcm/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/clk/bcm/built-in.a.symversions; done; rm -f drivers/clk/bcm/built-in.a; llvm-ar cDPrST drivers/clk/bcm/built-in.a 

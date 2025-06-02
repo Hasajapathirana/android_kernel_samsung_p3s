@@ -1,0 +1,11 @@
+__crc___iio_trigger_register = 0x34dab54b;
+__crc_iio_trigger_unregister = 0xf65f0a69;
+__crc_iio_trigger_poll = 0xd2b78cc1;
+__crc_iio_trigger_notify_done = 0xd58430a6;
+__crc_iio_pollfunc_store_time = 0xdf76bbeb;
+__crc_iio_alloc_pollfunc = 0x8229df92;
+__crc_iio_dealloc_pollfunc = 0xef676d4c;
+__crc_iio_trigger_alloc = 0xfc710d18;
+__crc_iio_trigger_free = 0xaebdb7ca;
+__crc_iio_triggered_buffer_postenable = 0x583db502;
+__crc_iio_triggered_buffer_predisable = 0x2558798b;

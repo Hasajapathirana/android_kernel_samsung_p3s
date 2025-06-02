@@ -1,0 +1,7 @@
+__crc_drm_kms_helper_poll_enable = 0x012779f4;
+__crc_drm_helper_probe_single_connector_modes = 0x9b7eb2c6;
+__crc_drm_kms_helper_hotplug_event = 0xab3bfd3f;
+__crc_drm_kms_helper_poll_disable = 0x8f9b02ce;
+__crc_drm_kms_helper_poll_init = 0x47c3d097;
+__crc_drm_kms_helper_poll_fini = 0x10b67623;
+__crc_drm_helper_hpd_irq_event = 0x652a894f;

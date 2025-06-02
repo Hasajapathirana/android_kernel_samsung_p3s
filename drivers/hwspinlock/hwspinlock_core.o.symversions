@@ -1,0 +1,9 @@
+__crc___hwspin_lock_timeout = 0xce3f3937;
+__crc___hwspin_unlock = 0x511b543a;
+__crc_of_hwspin_lock_get_id = 0xe1464364;
+__crc_of_hwspin_lock_get_id_byname = 0x6f2563d2;
+__crc_hwspin_lock_register = 0x5f0a4bec;
+__crc_hwspin_lock_unregister = 0x2444dcc2;
+__crc_hwspin_lock_request_specific = 0xea1fd391;
+__crc_hwspin_lock_free = 0x5b93bfe4;
+__crc_devm_hwspin_lock_request_specific = 0x6e19bcfc;

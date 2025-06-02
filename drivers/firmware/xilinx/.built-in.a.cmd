@@ -1,0 +1,1 @@
+cmd_drivers/firmware/xilinx/built-in.a := rm -f drivers/firmware/xilinx/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/firmware/xilinx/built-in.a.symversions; done; rm -f drivers/firmware/xilinx/built-in.a; llvm-ar cDPrST drivers/firmware/xilinx/built-in.a 

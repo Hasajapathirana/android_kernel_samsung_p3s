@@ -1,0 +1,5 @@
+__crc_dmabuf_container_set_mask = 0x6a666b84;
+__crc_dmabuf_container_get_mask = 0x8866192a;
+__crc_dmabuf_container_get_count = 0xc8280439;
+__crc_dmabuf_container_get_buffer = 0x79a90c22;
+__crc_dma_buf_get_any = 0x20b6d4f3;

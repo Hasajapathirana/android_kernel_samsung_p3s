@@ -1,0 +1,1 @@
+cmd_drivers/dma/ti/built-in.a := rm -f drivers/dma/ti/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/dma/ti/built-in.a.symversions; done; rm -f drivers/dma/ti/built-in.a; llvm-ar cDPrST drivers/dma/ti/built-in.a 

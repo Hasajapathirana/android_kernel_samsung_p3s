@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.a := rm -f drivers/block/built-in.a.symversions; for i in      ; do cat $$i.symversions >> drivers/block/built-in.a.symversions; done; rm -f drivers/block/built-in.a; llvm-ar cDPrST drivers/block/built-in.a drivers/block/brd.o drivers/block/loop.o drivers/block/zram/built-in.a

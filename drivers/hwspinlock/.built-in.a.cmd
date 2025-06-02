@@ -1,0 +1,1 @@
+cmd_drivers/hwspinlock/built-in.a := rm -f drivers/hwspinlock/built-in.a.symversions; for i in  drivers/hwspinlock/hwspinlock_core.o; do cat $$i.symversions >> drivers/hwspinlock/built-in.a.symversions; done; rm -f drivers/hwspinlock/built-in.a; llvm-ar cDPrST drivers/hwspinlock/built-in.a drivers/hwspinlock/hwspinlock_core.o

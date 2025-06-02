@@ -1,0 +1,13 @@
+__crc_invalidate_bdev = 0x0fb02cd1;
+__crc_set_blocksize = 0x5998326c;
+__crc_sb_set_blocksize = 0xef7f4d26;
+__crc_sb_min_blocksize = 0x88b85006;
+__crc_sync_blockdev = 0x2c4716d8;
+__crc_blkdev_fsync = 0x22f7aa22;
+__crc_bd_link_disk_holder = 0xa392667b;
+__crc_bd_unlink_disk_holder = 0x908e08e0;
+__crc_revalidate_disk = 0x288fab2c;
+__crc_check_disk_change = 0x0099b681;
+__crc_blkdev_get_by_path = 0x22dbcad5;
+__crc_blkdev_get_by_dev = 0x17a8b51b;
+__crc_blkdev_put = 0xd9431e33;

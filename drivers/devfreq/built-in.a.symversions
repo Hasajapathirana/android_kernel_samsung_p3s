@@ -1,0 +1,16 @@
+__crc_devfreq_update_status = 0xd49c30bf;
+__crc_update_devfreq = 0x110fcf86;
+__crc_devfreq_add_device = 0x98bb248f;
+__crc_devfreq_remove_device = 0x2e11a885;
+__crc_devm_devfreq_add_device = 0x3cae4c01;
+__crc_devfreq_get_devfreq_by_phandle = 0x2597abfb;
+__crc_devm_devfreq_remove_device = 0xef49a465;
+__crc_devfreq_suspend_device = 0xc6f3bacb;
+__crc_devfreq_resume_device = 0x4ede98ee;
+__crc_devfreq_add_governor = 0xd35d9de1;
+__crc_devfreq_remove_governor = 0x3565ea5d;
+__crc_devfreq_recommended_opp = 0xbcaad722;
+__crc_devfreq_register_opp_notifier = 0x7fed8ef3;
+__crc_devfreq_unregister_opp_notifier = 0x1333a975;
+__crc_devm_devfreq_register_opp_notifier = 0x026d5aba;
+__crc_devm_devfreq_register_notifier = 0x28b81390;

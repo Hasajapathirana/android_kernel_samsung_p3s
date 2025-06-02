@@ -1,0 +1,6 @@
+__crc_generic_error_remove_page = 0x92374734;
+__crc_truncate_inode_pages = 0xb311a633;
+__crc_truncate_inode_pages_final = 0x03bd090c;
+__crc_invalidate_mapping_pages = 0x33db9e7a;
+__crc_truncate_pagecache = 0xff8c472e;
+__crc_truncate_setsize = 0x2d99ea5f;

@@ -1,0 +1,17 @@
+__crc_seq_open = 0x4379e89e;
+__crc_seq_read = 0xa1168a18;
+__crc_seq_lseek = 0x3d9ad164;
+__crc_seq_release = 0x38459e6c;
+__crc_seq_vprintf = 0xd6bd392a;
+__crc_seq_printf = 0x904f43ce;
+__crc_seq_file_path = 0x3866c927;
+__crc_single_open = 0x4856ef31;
+__crc_single_open_size = 0x0ad43290;
+__crc_single_release = 0x4d08309f;
+__crc_seq_release_private = 0x4b70e6af;
+__crc___seq_open_private = 0xc5ea9bfa;
+__crc_seq_open_private = 0x7df080b5;
+__crc_seq_putc = 0x5d1466da;
+__crc_seq_puts = 0x9daa42d2;
+__crc_seq_write = 0x30daaf4c;
+__crc_seq_hex_dump = 0x2607b51f;

@@ -1,0 +1,4 @@
+__crc_arm_exynos_dma_mcode_ops = 0xed27546e;
+__crc___pl330_prep_dma_cyclic = 0xd078cef4;
+__crc_pl330_dma_debug = 0xe16d42b4;
+__crc_pl330_dma_getposition = 0x9d157ac5;

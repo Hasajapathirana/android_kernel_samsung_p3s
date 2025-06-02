@@ -1,0 +1,7 @@
+__crc_smp_call_function_single = 0x6228c21f;
+__crc_smp_call_function_single_async = 0x7d3c75a7;
+__crc_smp_call_function_many = 0xe2df8e9a;
+__crc_smp_call_function = 0xa0eae826;
+__crc_nr_cpu_ids = 0x017de3d5;
+__crc_on_each_cpu = 0x294b9ea1;
+__crc_smp_call_on_cpu = 0x267df662;

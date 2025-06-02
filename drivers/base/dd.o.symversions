@@ -1,0 +1,4 @@
+__crc_device_bind_driver = 0x3ebde6b1;
+__crc_device_attach = 0x9994fa55;
+__crc_driver_attach = 0xb77365ba;
+__crc_device_release_driver = 0x1357267c;

@@ -1,0 +1,5 @@
+__crc_amba_bustype = 0x5f3a5287;
+__crc_amba_driver_register = 0xbdc47a10;
+__crc_amba_driver_unregister = 0xf040ca6e;
+__crc_amba_request_regions = 0xef714066;
+__crc_amba_release_regions = 0xcaf72de4;

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/omapdrm/built-in.a := rm -f drivers/gpu/drm/omapdrm/built-in.a.symversions; for i in    ; do cat $$i.symversions >> drivers/gpu/drm/omapdrm/built-in.a.symversions; done; rm -f drivers/gpu/drm/omapdrm/built-in.a; llvm-ar cDPrST drivers/gpu/drm/omapdrm/built-in.a drivers/gpu/drm/omapdrm/dss/built-in.a drivers/gpu/drm/omapdrm/displays/built-in.a

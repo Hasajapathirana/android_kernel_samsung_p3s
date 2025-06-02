@@ -1,0 +1,1 @@
+cmd_drivers/auxdisplay/built-in.a := rm -f drivers/auxdisplay/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/auxdisplay/built-in.a.symversions; done; rm -f drivers/auxdisplay/built-in.a; llvm-ar cDPrST drivers/auxdisplay/built-in.a 

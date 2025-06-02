@@ -1,0 +1,14 @@
+__crc_d_drop = 0x0ad79e2c;
+__crc_dput = 0xbb80531c;
+__crc_dget_parent = 0xf1258ad7;
+__crc_d_find_alias = 0x42e5b591;
+__crc_d_alloc_name = 0x6cc02b05;
+__crc_d_instantiate = 0xc1373abc;
+__crc_d_make_root = 0x69734d17;
+__crc_d_obtain_alias = 0xd7c5f23d;
+__crc_d_add_ci = 0x72896cc5;
+__crc_d_delete = 0x5e1351ac;
+__crc_d_add = 0x5a039b78;
+__crc_d_move = 0xe0bcb705;
+__crc_d_splice_alias = 0xed8b1dd8;
+__crc_names_cachep = 0x3096be16;

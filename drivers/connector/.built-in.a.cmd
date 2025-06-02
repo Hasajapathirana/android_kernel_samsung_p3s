@@ -1,0 +1,1 @@
+cmd_drivers/connector/built-in.a := rm -f drivers/connector/built-in.a.symversions; for i in      ; do cat $$i.symversions >> drivers/connector/built-in.a.symversions; done; rm -f drivers/connector/built-in.a; llvm-ar cDPrST drivers/connector/built-in.a drivers/connector/cn_queue.o drivers/connector/connector.o drivers/connector/cn_proc.o

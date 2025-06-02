@@ -1,0 +1,1 @@
+cmd_drivers/iio/potentiometer/built-in.a := rm -f drivers/iio/potentiometer/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/potentiometer/built-in.a.symversions; done; rm -f drivers/iio/potentiometer/built-in.a; llvm-ar cDPrST drivers/iio/potentiometer/built-in.a 

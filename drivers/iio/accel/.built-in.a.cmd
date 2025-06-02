@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/built-in.a := rm -f drivers/iio/accel/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/accel/built-in.a.symversions; done; rm -f drivers/iio/accel/built-in.a; llvm-ar cDPrST drivers/iio/accel/built-in.a 

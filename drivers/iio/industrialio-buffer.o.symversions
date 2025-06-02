@@ -1,0 +1,4 @@
+__crc_iio_buffer_init = 0x44eb43b8;
+__crc_iio_push_to_buffers = 0x8bf9bd26;
+__crc_iio_buffer_put = 0xbd21cdf9;
+__crc_iio_device_attach_buffer = 0x0b629be1;

@@ -1,0 +1,2 @@
+__crc_configfs_register_subsystem = 0x00cb5856;
+__crc_configfs_unregister_subsystem = 0x18bbccee;

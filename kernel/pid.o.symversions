@@ -1,0 +1,7 @@
+__crc_put_pid = 0xaf908193;
+__crc_find_vpid = 0x91c6226d;
+__crc_pid_task = 0x5cd903ac;
+__crc_get_task_pid = 0x8daa1003;
+__crc_get_pid_task = 0x19c85d4a;
+__crc_find_get_pid = 0x53920685;
+__crc___task_pid_nr_ns = 0x4d31936b;

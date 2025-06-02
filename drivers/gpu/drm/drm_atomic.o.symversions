@@ -1,0 +1,15 @@
+__crc___drm_crtc_commit_free = 0xae277372;
+__crc_drm_atomic_state_default_release = 0x53f434cb;
+__crc_drm_atomic_state_init = 0xaddbbb26;
+__crc_drm_atomic_state_alloc = 0x7d0f0db5;
+__crc_drm_atomic_state_default_clear = 0x79f3a278;
+__crc_drm_atomic_state_clear = 0x6db87d8b;
+__crc___drm_atomic_state_free = 0xb9cad492;
+__crc_drm_atomic_get_crtc_state = 0x902d548e;
+__crc_drm_atomic_get_plane_state = 0x3a1e8715;
+__crc_drm_atomic_private_obj_init = 0x0fa27396;
+__crc_drm_atomic_private_obj_fini = 0xfe899a2a;
+__crc_drm_atomic_get_private_obj_state = 0xdaf78c4a;
+__crc_drm_atomic_get_connector_state = 0xfc11e0b7;
+__crc_drm_atomic_commit = 0x05684255;
+__crc_drm_state_dump = 0xc9eaf05f;

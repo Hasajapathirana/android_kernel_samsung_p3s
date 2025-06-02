@@ -1,0 +1,1 @@
+cmd_drivers/clk/samsung/clk_exynos.o := rm -f drivers/clk/samsung/clk_exynos.o.symversions; for i in    ; do cat $$i.symversions >> drivers/clk/samsung/clk_exynos.o.symversions; done; rm -f drivers/clk/samsung/clk_exynos.o; llvm-ar rcsTP drivers/clk/samsung/clk_exynos.o drivers/clk/samsung/clk-exynos2100.o drivers/clk/samsung/composite.o

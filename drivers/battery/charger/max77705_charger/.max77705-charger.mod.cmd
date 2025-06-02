@@ -1,0 +1,1 @@
+cmd_drivers/battery/charger/max77705_charger/max77705-charger.mod := { echo  drivers/battery/charger/max77705_charger/max77705_charger.o; llvm-nm drivers/battery/charger/max77705_charger/max77705-charger.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/battery/charger/max77705_charger/max77705-charger.mod

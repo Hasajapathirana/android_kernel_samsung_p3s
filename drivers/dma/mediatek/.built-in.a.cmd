@@ -1,0 +1,1 @@
+cmd_drivers/dma/mediatek/built-in.a := rm -f drivers/dma/mediatek/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/dma/mediatek/built-in.a.symversions; done; rm -f drivers/dma/mediatek/built-in.a; llvm-ar cDPrST drivers/dma/mediatek/built-in.a 

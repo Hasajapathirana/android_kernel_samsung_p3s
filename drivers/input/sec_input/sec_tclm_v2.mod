@@ -1,0 +1,2 @@
+drivers/input/sec_input/sec_tclm_v2.o
+__cfi_slowpath _dev_err _dev_info dev_driver_string kfree kmalloc_caches kmem_cache_alloc_trace sec_debug_tsp_log_msg snprintf strlcat

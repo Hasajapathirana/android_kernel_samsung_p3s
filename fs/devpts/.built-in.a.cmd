@@ -1,0 +1,1 @@
+cmd_fs/devpts/built-in.a := rm -f fs/devpts/built-in.a.symversions; for i in  ; do cat $$i.symversions >> fs/devpts/built-in.a.symversions; done; rm -f fs/devpts/built-in.a; llvm-ar cDPrST fs/devpts/built-in.a fs/devpts/inode.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/sec_input/sec_input_notifier.mod := { echo  drivers/input/sec_input/sec_input_notifier.o; llvm-nm drivers/input/sec_input/sec_input_notifier.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/input/sec_input/sec_input_notifier.mod

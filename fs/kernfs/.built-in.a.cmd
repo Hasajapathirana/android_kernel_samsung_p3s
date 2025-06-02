@@ -1,0 +1,1 @@
+cmd_fs/kernfs/built-in.a := rm -f fs/kernfs/built-in.a.symversions; for i in      fs/kernfs/dir.o  fs/kernfs/file.o  ; do cat $$i.symversions >> fs/kernfs/built-in.a.symversions; done; rm -f fs/kernfs/built-in.a; llvm-ar cDPrST fs/kernfs/built-in.a fs/kernfs/mount.o fs/kernfs/inode.o fs/kernfs/dir.o fs/kernfs/file.o fs/kernfs/symlink.o

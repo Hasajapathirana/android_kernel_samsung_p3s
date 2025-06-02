@@ -1,0 +1,4 @@
+__crc_drm_gem_shmem_dumb_create = 0x998b2bf6;
+__crc_drm_gem_shmem_mmap = 0x8e203626;
+__crc_drm_gem_shmem_get_pages_sgt = 0xe2a4c522;
+__crc_drm_gem_shmem_prime_import_sg_table = 0xa0c41ea0;

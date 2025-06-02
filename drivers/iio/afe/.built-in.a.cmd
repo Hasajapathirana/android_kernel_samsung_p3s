@@ -1,0 +1,1 @@
+cmd_drivers/iio/afe/built-in.a := rm -f drivers/iio/afe/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/afe/built-in.a.symversions; done; rm -f drivers/iio/afe/built-in.a; llvm-ar cDPrST drivers/iio/afe/built-in.a 

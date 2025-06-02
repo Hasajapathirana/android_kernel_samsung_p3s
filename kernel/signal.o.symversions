@@ -1,0 +1,7 @@
+__crc_flush_signals = 0x14b70834;
+__crc_dequeue_signal = 0x33e109f5;
+__crc_send_sig_info = 0xf37e7a99;
+__crc_send_sig = 0x97f5ddb1;
+__crc_kill_pid = 0xb1e2da87;
+__crc_sigprocmask = 0x6a5fa363;
+__crc_kernel_sigaction = 0x6df1aaf1;

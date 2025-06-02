@@ -1,0 +1,1 @@
+cmd_drivers/i2c/muxes/built-in.a := rm -f drivers/i2c/muxes/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/i2c/muxes/built-in.a.symversions; done; rm -f drivers/i2c/muxes/built-in.a; llvm-ar cDPrST drivers/i2c/muxes/built-in.a 

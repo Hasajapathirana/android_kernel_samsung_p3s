@@ -1,0 +1,10 @@
+__crc___mutex_init = 0x977f511b;
+__crc_mutex_is_locked = 0x318d6fec;
+__crc_mutex_trylock_recursive = 0xae7e3a35;
+__crc_mutex_lock = 0x2ab7989d;
+__crc_mutex_unlock = 0x409bcb62;
+__crc_ww_mutex_unlock = 0xf165cd86;
+__crc_mutex_lock_interruptible = 0x2db3d320;
+__crc_mutex_trylock = 0xf21017d9;
+__crc_ww_mutex_lock = 0x9e63534b;
+__crc_ww_mutex_lock_interruptible = 0x98453af9;

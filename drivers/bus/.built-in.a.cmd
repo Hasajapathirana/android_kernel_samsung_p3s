@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a := rm -f drivers/bus/built-in.a.symversions; for i in  ; do cat $$i.symversions >> drivers/bus/built-in.a.symversions; done; rm -f drivers/bus/built-in.a; llvm-ar cDPrST drivers/bus/built-in.a drivers/bus/qcom-ebi2.o

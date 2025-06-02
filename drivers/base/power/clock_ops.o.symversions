@@ -1,0 +1,5 @@
+__crc_pm_clk_add = 0x420651d8;
+__crc_pm_clk_create = 0x8e55fb83;
+__crc_pm_clk_destroy = 0x70b2710c;
+__crc_pm_clk_suspend = 0xb173a6df;
+__crc_pm_clk_resume = 0x960e0c56;

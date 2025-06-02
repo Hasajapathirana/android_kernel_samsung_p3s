@@ -1,0 +1,2 @@
+__crc_drm_plane_enable_fb_damage_clips = 0x84540941;
+__crc_drm_atomic_helper_dirtyfb = 0xf0b4e4b9;

@@ -1,0 +1,1 @@
+cmd_drivers/firmware/imx/built-in.a := rm -f drivers/firmware/imx/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/firmware/imx/built-in.a.symversions; done; rm -f drivers/firmware/imx/built-in.a; llvm-ar cDPrST drivers/firmware/imx/built-in.a 

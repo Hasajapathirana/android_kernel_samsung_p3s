@@ -1,0 +1,1 @@
+cmd_drivers/i3c/built-in.a := rm -f drivers/i3c/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/i3c/built-in.a.symversions; done; rm -f drivers/i3c/built-in.a; llvm-ar cDPrST drivers/i3c/built-in.a 

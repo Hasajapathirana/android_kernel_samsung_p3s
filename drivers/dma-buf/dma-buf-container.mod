@@ -1,0 +1,2 @@
+drivers/dma-buf/dma-buf-container.o
+__arch_copy_from_user __arch_copy_to_user __check_object_size __kmalloc __this_module arm64_const_caps_ready cpu_hwcap_keys cpu_hwcaps dma_buf_export dma_buf_get dma_buf_put fd_install get_unused_fd_flags kfree kmalloc_caches kmalloc_order_trace kmem_cache_alloc_trace misc_register printk put_unused_fd

@@ -1,0 +1,1 @@
+cmd_drivers/iio/chemical/built-in.a := rm -f drivers/iio/chemical/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/iio/chemical/built-in.a.symversions; done; rm -f drivers/iio/chemical/built-in.a; llvm-ar cDPrST drivers/iio/chemical/built-in.a 

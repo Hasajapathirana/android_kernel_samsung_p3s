@@ -1,0 +1,1 @@
+cmd_usr/built-in.a := rm -f usr/built-in.a.symversions; for i in  ; do cat $$i.symversions >> usr/built-in.a.symversions; done; rm -f usr/built-in.a; llvm-ar cDPrST usr/built-in.a usr/initramfs_data.o

@@ -1,0 +1,8 @@
+__crc_vfs_fallocate = 0x1a3d289a;
+__crc_file_path = 0x401d8945;
+__crc_dentry_open = 0x7309b565;
+__crc_filp_open = 0xd77f7f3c;
+__crc_filp_close = 0x5a14eb10;
+__crc_generic_file_open = 0xd11d2af3;
+__crc_nonseekable_open = 0x2966563a;
+__crc_stream_open = 0x19db4b08;

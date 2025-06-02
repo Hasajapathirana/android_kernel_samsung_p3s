@@ -1,0 +1,1 @@
+cmd_drivers/base/test/built-in.a := rm -f drivers/base/test/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/base/test/built-in.a.symversions; done; rm -f drivers/base/test/built-in.a; llvm-ar cDPrST drivers/base/test/built-in.a 

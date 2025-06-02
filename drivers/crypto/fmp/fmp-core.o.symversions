@@ -1,0 +1,6 @@
+__crc_exynos_fmp_crypt = 0x6cac3505;
+__crc_exynos_fmp_clear = 0xf2ca5648;
+__crc_exynos_fmp_setkey = 0x34786fa3;
+__crc_exynos_fmp_fips = 0xf298e5a1;
+__crc_exynos_fmp_bypass = 0x2b9390b5;
+__crc_exynos_fmp_sec_cfg = 0x70b0b4bf;

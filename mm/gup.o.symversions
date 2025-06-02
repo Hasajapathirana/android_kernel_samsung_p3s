@@ -1,0 +1,3 @@
+__crc_get_user_pages_remote = 0xd0ab38a9;
+__crc_get_user_pages = 0xd1340851;
+__crc_get_user_pages_fast = 0xb1754b57;

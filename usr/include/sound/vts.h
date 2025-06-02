@@ -1,0 +1,18 @@
+#ifndef __SOUND_VTS_H
+#define __SOUND_VTS_H
+
+#if defined(__KERNEL__) || defined(__linux__)
+#include <linux/types.h>
+#else
+#include <sys/ioctl.h>
+#endif
+
+#include <stdlib.h>
+
+#define VTSDRV_MISC_IOCTL_WRITE_SVOICE	_IOW('V', 0x00, int)
+#define VTSDRV_MISC_IOCTL_WRITE_GOOGLE	_IOW('V', 0x01, int)
+#define VTSDRV_MISC_IOCTL_READ_GOOGLE_VERSION	_IOR('V', 0x02, int)
+#define VTSDRV_MISC_MODEL_BIN_MAXSZ  0x10800
+
+#endif /* __SOUND_VTS_H */
+

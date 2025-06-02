@@ -1,0 +1,1 @@
+cmd_drivers/dax/pmem/built-in.a := rm -f drivers/dax/pmem/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/dax/pmem/built-in.a.symversions; done; rm -f drivers/dax/pmem/built-in.a; llvm-ar cDPrST drivers/dax/pmem/built-in.a 

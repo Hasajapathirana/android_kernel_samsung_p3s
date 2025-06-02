@@ -1,0 +1,8 @@
+__crc_drm_gem_prime_fd_to_handle = 0x4c665947;
+__crc_drm_gem_prime_handle_to_fd = 0xcd9c1adf;
+__crc_drm_gem_prime_mmap = 0x0ee5acc0;
+__crc_drm_prime_pages_to_sg = 0x6f461649;
+__crc_drm_gem_prime_export = 0xfcf0513b;
+__crc_drm_gem_prime_import = 0x941265bb;
+__crc_drm_prime_sg_to_page_addr_arrays = 0x995f232b;
+__crc_drm_prime_gem_destroy = 0x2530b78d;

@@ -1,0 +1,17 @@
+__crc_jiffies_64 = 0x055e77e8;
+__crc_round_jiffies = 0x091eb9b4;
+__crc_round_jiffies_relative = 0x1eb9516e;
+__crc_round_jiffies_up = 0x50fad434;
+__crc_init_timer_key = 0x79cf5987;
+__crc_mod_timer = 0x72cd0f7f;
+__crc_timer_reduce = 0x75c21753;
+__crc_add_timer = 0x65744673;
+__crc_add_timer_on = 0x0a83a512;
+__crc_del_timer = 0xaa4008af;
+__crc_del_timer_sync = 0xf15e728e;
+__crc_schedule_timeout = 0x8ddd8aad;
+__crc_schedule_timeout_interruptible = 0x054496b4;
+__crc_schedule_timeout_uninterruptible = 0x151f4898;
+__crc_msleep = 0xf9a482f9;
+__crc_msleep_interruptible = 0xcc5005fe;
+__crc_usleep_range = 0x12a38747;

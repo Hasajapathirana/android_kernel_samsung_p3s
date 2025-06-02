@@ -1,0 +1,8 @@
+__crc_generic_file_llseek = 0x166a5ff5;
+__crc_fixed_size_llseek = 0x0dcf160c;
+__crc_noop_llseek = 0xd766f7fe;
+__crc_no_llseek = 0xcf514d92;
+__crc_default_llseek = 0xb8ecda45;
+__crc_vfs_llseek = 0x5dfae398;
+__crc_kernel_read = 0x2e40484b;
+__crc_kernel_write = 0x1f1833e3;

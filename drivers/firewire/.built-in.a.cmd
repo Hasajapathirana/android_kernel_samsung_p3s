@@ -1,0 +1,1 @@
+cmd_drivers/firewire/built-in.a := rm -f drivers/firewire/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/firewire/built-in.a.symversions; done; rm -f drivers/firewire/built-in.a; llvm-ar cDPrST drivers/firewire/built-in.a 

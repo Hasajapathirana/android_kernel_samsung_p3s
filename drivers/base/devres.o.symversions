@@ -1,0 +1,15 @@
+__crc_devres_alloc_node = 0xdeb94c6a;
+__crc_devres_free = 0xe93e49c3;
+__crc_devres_add = 0x80462083;
+__crc_devres_destroy = 0xafe6cbe7;
+__crc_devres_release = 0xcf35ff3c;
+__crc_devm_add_action = 0x5dc1d9ef;
+__crc_devm_remove_action = 0xe06c1eb8;
+__crc_devm_kmalloc = 0x33d27980;
+__crc_devm_kstrdup = 0xd06b9526;
+__crc_devm_kstrdup_const = 0x8bcc6215;
+__crc_devm_kvasprintf = 0x9ccfc9c4;
+__crc_devm_kasprintf = 0xb683dcdd;
+__crc_devm_kfree = 0x90fb7e95;
+__crc_devm_kmemdup = 0x74401632;
+__crc___devm_alloc_percpu = 0xf9cb7ec8;

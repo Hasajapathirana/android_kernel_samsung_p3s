@@ -1,0 +1,3 @@
+__crc_bpf_prog_put = 0xfa7558d4;
+__crc_bpf_prog_add = 0x90c18cba;
+__crc_bpf_prog_sub = 0xb059e18e;

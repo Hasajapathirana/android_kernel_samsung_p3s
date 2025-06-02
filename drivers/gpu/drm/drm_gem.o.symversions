@@ -1,0 +1,15 @@
+__crc_drm_gem_object_init = 0x1c538ea0;
+__crc_drm_gem_private_object_init = 0xf91fd828;
+__crc_drm_gem_handle_create = 0x4644bedd;
+__crc_drm_gem_free_mmap_offset = 0xee0edbd1;
+__crc_drm_gem_create_mmap_offset = 0x104aa4f7;
+__crc_drm_gem_get_pages = 0xa57525cc;
+__crc_drm_gem_put_pages = 0x8b9e9e6b;
+__crc_drm_gem_object_lookup = 0x738577ee;
+__crc_drm_gem_object_release = 0x79851c86;
+__crc_drm_gem_object_put_unlocked = 0xa146ebbb;
+__crc_drm_gem_object_put = 0xf7d9ef95;
+__crc_drm_gem_vm_open = 0x94510aeb;
+__crc_drm_gem_vm_close = 0xa0d538ff;
+__crc_drm_gem_mmap_obj = 0x0b3070e9;
+__crc_drm_gem_mmap = 0xed6f72d0;

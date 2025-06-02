@@ -1,0 +1,1 @@
+cmd_drivers/fingerprint/qbt2000_spidev.mod := { echo  drivers/fingerprint/qbt2000_spidev.o; llvm-nm drivers/fingerprint/qbt2000_spidev.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/fingerprint/qbt2000_spidev.mod

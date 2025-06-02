@@ -1,0 +1,9 @@
+__crc___register_binfmt = 0xa1e1fc59;
+__crc_unregister_binfmt = 0x1402aa7a;
+__crc_copy_strings_kernel = 0x2d3dba13;
+__crc___get_task_comm = 0x4706ed7d;
+__crc_would_dump = 0x48ae0777;
+__crc_bprm_change_interp = 0x9cfc43fe;
+__crc_prepare_binprm = 0x829c7f07;
+__crc_remove_arg_zero = 0x4e82ebfa;
+__crc_search_binary_handler = 0x10b0c818;

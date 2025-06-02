@@ -1,0 +1,11 @@
+__crc_crypto_shash_setkey = 0xde86f8e6;
+__crc_crypto_shash_update = 0x14ab705e;
+__crc_crypto_shash_final = 0x4b699bb0;
+__crc_crypto_shash_digest = 0x70af7cdf;
+__crc_crypto_alloc_shash = 0x1692e360;
+__crc_crypto_register_shash = 0xbfe85b59;
+__crc_crypto_unregister_shash = 0x3ba42124;
+__crc_crypto_register_shashes = 0x32c79025;
+__crc_crypto_unregister_shashes = 0x71764744;
+__crc_shash_register_instance = 0x0ffd3ab3;
+__crc_shash_free_instance = 0xd0e0bbef;

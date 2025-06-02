@@ -1,0 +1,17 @@
+__crc_blk_queue_flag_set = 0x7a01b80c;
+__crc_blk_queue_flag_clear = 0xddfa3390;
+__crc_blk_queue_flag_test_and_set = 0x45e6eb04;
+__crc_blk_status_to_errno = 0x84502a47;
+__crc_blk_sync_queue = 0xafc649dd;
+__crc_blk_put_queue = 0xe5910452;
+__crc_blk_set_queue_dying = 0xbb4ee010;
+__crc_blk_cleanup_queue = 0x4b446078;
+__crc_blk_alloc_queue = 0xd6901c64;
+__crc_blk_get_queue = 0xe2a6b6c1;
+__crc_blk_get_request = 0xff2066c0;
+__crc_blk_put_request = 0x9cd9f8af;
+__crc_submit_bio = 0xbdbc391d;
+__crc_blk_update_request = 0x36b6a6bb;
+__crc_rq_flush_dcache_pages = 0xd3b6774b;
+__crc_blk_start_plug = 0x7a9b37e8;
+__crc_blk_finish_plug = 0xf2215f74;

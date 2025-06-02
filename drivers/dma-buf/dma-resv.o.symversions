@@ -1,0 +1,9 @@
+__crc_reservation_ww_class = 0xcc328a5c;
+__crc_dma_resv_init = 0x841f663e;
+__crc_dma_resv_fini = 0xaa0342f4;
+__crc_dma_resv_reserve_shared = 0x8f28d1cb;
+__crc_dma_resv_add_shared_fence = 0xfa87c180;
+__crc_dma_resv_add_excl_fence = 0x336832bd;
+__crc_dma_resv_copy_fences = 0x5dcae18e;
+__crc_dma_resv_wait_timeout_rcu = 0x68730b3e;
+__crc_dma_resv_test_signaled_rcu = 0x943239f4;

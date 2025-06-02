@@ -1,0 +1,1 @@
+cmd_arch/arm64/net/built-in.a := rm -f arch/arm64/net/built-in.a.symversions; for i in  ; do cat $$i.symversions >> arch/arm64/net/built-in.a.symversions; done; rm -f arch/arm64/net/built-in.a; llvm-ar cDPrST arch/arm64/net/built-in.a arch/arm64/net/bpf_jit_comp.o

@@ -1,0 +1,6 @@
+__crc___trace_puts = 0x2d41e6f5;
+__crc_tracing_off = 0x7944e0fc;
+__crc_trace_handle_return = 0xdaddbd5a;
+__crc_trace_event_buffer_commit = 0x61051ca5;
+__crc_trace_array_create = 0x1326f060;
+__crc_trace_array_destroy = 0x124e5006;

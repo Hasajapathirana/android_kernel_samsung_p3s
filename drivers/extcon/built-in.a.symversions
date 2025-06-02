@@ -1,0 +1,17 @@
+__crc_extcon_get_state = 0xb4ab8d96;
+__crc_extcon_set_state_sync = 0x47aa2099;
+__crc_extcon_get_property = 0x9a8ecfce;
+__crc_extcon_set_property = 0x7afd901b;
+__crc_extcon_set_property_capability = 0x0fa9bd2e;
+__crc_extcon_get_extcon_dev = 0x10893f8a;
+__crc_extcon_register_notifier = 0x2893e83f;
+__crc_extcon_unregister_notifier = 0x1335a5c1;
+__crc_extcon_find_edev_by_node = 0x4a8efd00;
+__crc_extcon_get_edev_by_phandle = 0xa48c073b;
+__crc_extcon_get_edev_name = 0x2ef8c707;
+__crc_devm_extcon_dev_allocate = 0x543207aa;
+__crc_devm_extcon_dev_free = 0xabfd3657;
+__crc_devm_extcon_dev_register = 0x6d861bda;
+__crc_devm_extcon_dev_unregister = 0x4b84ac73;
+__crc_devm_extcon_register_notifier = 0x1124d044;
+__crc_devm_extcon_register_notifier_all = 0x1731ed27;

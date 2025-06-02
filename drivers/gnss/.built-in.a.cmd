@@ -1,0 +1,1 @@
+cmd_drivers/gnss/built-in.a := rm -f drivers/gnss/built-in.a.symversions; for i in  drivers/gnss/core.o; do cat $$i.symversions >> drivers/gnss/built-in.a.symversions; done; rm -f drivers/gnss/built-in.a; llvm-ar cDPrST drivers/gnss/built-in.a drivers/gnss/core.o

@@ -1,0 +1,6 @@
+__crc_dev_pm_qos_add_request = 0x1c578257;
+__crc_dev_pm_qos_update_request = 0xca4ef02d;
+__crc_dev_pm_qos_remove_request = 0x4715542e;
+__crc_dev_pm_qos_update_user_latency_tolerance = 0xc7f7eb8a;
+__crc_dev_pm_qos_expose_latency_tolerance = 0x8090ca5a;
+__crc_dev_pm_qos_hide_latency_tolerance = 0x4f638ed1;

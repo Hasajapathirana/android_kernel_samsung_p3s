@@ -1,0 +1,1 @@
+cmd_kernel/livepatch/built-in.a := rm -f kernel/livepatch/built-in.a.symversions; for i in ; do cat $$i.symversions >> kernel/livepatch/built-in.a.symversions; done; rm -f kernel/livepatch/built-in.a; llvm-ar cDPrST kernel/livepatch/built-in.a 

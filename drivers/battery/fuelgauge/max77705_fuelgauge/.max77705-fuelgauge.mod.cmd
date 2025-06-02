@@ -1,0 +1,1 @@
+cmd_drivers/battery/fuelgauge/max77705_fuelgauge/max77705-fuelgauge.mod := { echo  drivers/battery/fuelgauge/max77705_fuelgauge/max77705_fuelgauge.o; llvm-nm drivers/battery/fuelgauge/max77705_fuelgauge/max77705-fuelgauge.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/battery/fuelgauge/max77705_fuelgauge/max77705-fuelgauge.mod

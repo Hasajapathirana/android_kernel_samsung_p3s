@@ -1,0 +1,1 @@
+cmd_drivers/char/agp/built-in.a := rm -f drivers/char/agp/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/char/agp/built-in.a.symversions; done; rm -f drivers/char/agp/built-in.a; llvm-ar cDPrST drivers/char/agp/built-in.a 

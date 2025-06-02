@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/bcm43xx.mod := { echo  drivers/bluetooth/bcm43xx.o; llvm-nm drivers/bluetooth/bcm43xx.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/bluetooth/bcm43xx.mod

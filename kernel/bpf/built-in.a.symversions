@@ -1,0 +1,6 @@
+__crc_arch_bpf_jit_check_func = 0x3e8a5133;
+__crc_bpf_stats_enabled_key = 0xf84bd6ee;
+__crc___tracepoint_xdp_exception = 0x666b755a;
+__crc_bpf_prog_put = 0xfa7558d4;
+__crc_bpf_prog_add = 0x90c18cba;
+__crc_bpf_prog_sub = 0xb059e18e;

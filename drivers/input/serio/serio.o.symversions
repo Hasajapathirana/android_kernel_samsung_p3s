@@ -1,0 +1,4 @@
+__crc_serio_reconnect = 0x884e07d9;
+__crc___serio_register_port = 0x90077468;
+__crc_serio_unregister_port = 0x42aa8e06;
+__crc_serio_interrupt = 0xa76f49b9;

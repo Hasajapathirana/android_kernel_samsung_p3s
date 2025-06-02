@@ -1,0 +1,9 @@
+__crc_dev_pm_genpd_set_performance_state = 0xd617fc55;
+__crc_pm_genpd_add_subdomain = 0x24566b52;
+__crc_pm_genpd_remove_subdomain = 0x1d799615;
+__crc_pm_genpd_init = 0x5c0e231b;
+__crc_pm_genpd_remove = 0xa4e202a6;
+__crc_of_genpd_add_provider_simple = 0x4627bcdd;
+__crc_of_genpd_add_provider_onecell = 0x838b837e;
+__crc_of_genpd_del_provider = 0xca168b13;
+__crc_of_genpd_add_subdomain = 0x6c4bf1e1;

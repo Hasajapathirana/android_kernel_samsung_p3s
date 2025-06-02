@@ -1,0 +1,3 @@
+__crc_clk_fixed_rate_ops = 0x0eb75a95;
+__crc_clk_register_fixed_rate = 0x664633f0;
+__crc_clk_unregister_fixed_rate = 0x52252316;

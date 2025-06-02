@@ -1,0 +1,2 @@
+__crc_tracepoint_probe_register = 0x659e63f8;
+__crc_tracepoint_probe_unregister = 0xd2c8ae77;

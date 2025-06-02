@@ -1,0 +1,1 @@
+cmd_drivers/hwtracing/stm/built-in.a := rm -f drivers/hwtracing/stm/built-in.a.symversions; for i in    ; do cat $$i.symversions >> drivers/hwtracing/stm/built-in.a.symversions; done; rm -f drivers/hwtracing/stm/built-in.a; llvm-ar cDPrST drivers/hwtracing/stm/built-in.a drivers/hwtracing/stm/core.o drivers/hwtracing/stm/policy.o

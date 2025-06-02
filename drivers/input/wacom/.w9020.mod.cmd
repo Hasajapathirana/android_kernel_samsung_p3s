@@ -1,0 +1,1 @@
+cmd_drivers/input/wacom/w9020.mod := { echo  drivers/input/wacom/wacom_i2c.o drivers/input/wacom/wacom_i2c_sec.o drivers/input/wacom/wacom_i2c_elec.o drivers/input/wacom/w9020_flash.o; llvm-nm drivers/input/wacom/w9020.o | awk '$$1 == "U" { printf("%s%s", x++ ? " " : "", $$2) }'; echo; } > drivers/input/wacom/w9020.mod

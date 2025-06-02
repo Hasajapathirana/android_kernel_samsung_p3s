@@ -1,0 +1,1 @@
+cmd_init/built-in.a := rm -f init/built-in.a.symversions; for i in  init/main.o  init/version.o            init/init_task.o; do cat $$i.symversions >> init/built-in.a.symversions; done; rm -f init/built-in.a; llvm-ar cDPrST init/built-in.a init/main.o init/version.o init/do_mounts.o init/do_mounts_rd.o init/do_mounts_initrd.o init/initramfs.o init/calibrate.o init/init_task.o

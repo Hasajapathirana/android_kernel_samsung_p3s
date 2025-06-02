@@ -1,0 +1,12 @@
+__crc_dmam_free_coherent = 0x73314333;
+__crc_dmam_alloc_attrs = 0xfa5dd794;
+__crc_dma_common_get_sgtable = 0x9f47b4fd;
+__crc_dma_get_sgtable_attrs = 0xa9dfdd2e;
+__crc_dma_common_mmap = 0x05301c1a;
+__crc_dma_mmap_attrs = 0xce9eb401;
+__crc_dma_alloc_attrs = 0x1f61af13;
+__crc_dma_free_attrs = 0xa8437c60;
+__crc_dma_set_mask = 0x24e5d6e3;
+__crc_dma_set_coherent_mask = 0x46972f24;
+__crc_dma_max_mapping_size = 0xe5a003a3;
+__crc_dma_get_merge_boundary = 0x63dc7b93;

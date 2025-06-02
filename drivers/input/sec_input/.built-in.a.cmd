@@ -1,0 +1,1 @@
+cmd_drivers/input/sec_input/built-in.a := rm -f drivers/input/sec_input/built-in.a.symversions; for i in ; do cat $$i.symversions >> drivers/input/sec_input/built-in.a.symversions; done; rm -f drivers/input/sec_input/built-in.a; llvm-ar cDPrST drivers/input/sec_input/built-in.a 

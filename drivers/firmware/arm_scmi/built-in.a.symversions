@@ -1,0 +1,2 @@
+__crc_scmi_driver_register = 0xaf45c9fa;
+__crc_scmi_driver_unregister = 0x4b6c7438;

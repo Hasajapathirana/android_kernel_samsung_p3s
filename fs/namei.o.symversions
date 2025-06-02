@@ -1,0 +1,17 @@
+__crc_generic_permission = 0x561c16f1;
+__crc_path_get = 0x85bec804;
+__crc_path_put = 0x6985db1e;
+__crc_full_name_hash = 0xd6eaaea1;
+__crc_kern_path = 0xd120721b;
+__crc_lookup_one_len = 0xa3da553e;
+__crc_user_path_at_empty = 0x48af96bf;
+__crc_lock_rename = 0x637c4886;
+__crc_unlock_rename = 0x47f38152;
+__crc_vfs_create = 0x15b41593;
+__crc_kern_path_create = 0x04f40914;
+__crc_done_path_create = 0x5f47b5a0;
+__crc_vfs_mkdir = 0xbd0e1075;
+__crc_vfs_rmdir = 0xb7a53525;
+__crc_vfs_unlink = 0x2f197db1;
+__crc_vfs_link = 0xc2b84c54;
+__crc_vfs_rename = 0x29493438;

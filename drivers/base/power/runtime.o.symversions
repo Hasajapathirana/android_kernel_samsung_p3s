@@ -1,0 +1,17 @@
+__crc_pm_runtime_autosuspend_expiration = 0x53bc05bd;
+__crc___pm_runtime_idle = 0x44b6fa89;
+__crc___pm_runtime_suspend = 0x5e11a36c;
+__crc___pm_runtime_resume = 0xe803bac0;
+__crc_pm_runtime_get_if_in_use = 0xac3c5449;
+__crc___pm_runtime_set_status = 0xf0c30103;
+__crc_pm_runtime_barrier = 0x07b3217a;
+__crc___pm_runtime_disable = 0xfaf9a34c;
+__crc_pm_runtime_enable = 0x32654f50;
+__crc_pm_runtime_forbid = 0x4b4d2d6c;
+__crc_pm_runtime_allow = 0x877f1981;
+__crc_pm_runtime_no_callbacks = 0x169c2a42;
+__crc_pm_runtime_irq_safe = 0x177d67a8;
+__crc_pm_runtime_set_autosuspend_delay = 0x431ccc03;
+__crc___pm_runtime_use_autosuspend = 0xc36f7e21;
+__crc_pm_runtime_force_suspend = 0x00937e73;
+__crc_pm_runtime_force_resume = 0x0bf7ef82;
