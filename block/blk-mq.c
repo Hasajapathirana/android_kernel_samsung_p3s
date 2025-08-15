@@ -653,7 +653,11 @@ static void __blk_mq_complete_request(struct request *rq)
 		rq->csd.func = __blk_mq_complete_request_remote;
 		rq->csd.info = rq;
 		rq->csd.flags = 0;
-		smp_call_function_single_async(ctx->cpu, &rq->csd);
+		struct smp_call_data __aligned(32) tmp_csd;
+
+tmp_csd = rq->csd;  // copy contents if needed
+
+smp_call_function_single_async(ctx->cpu, &tmp_csd);
 	} else {
 		q->mq_ops->complete(rq);
 	}

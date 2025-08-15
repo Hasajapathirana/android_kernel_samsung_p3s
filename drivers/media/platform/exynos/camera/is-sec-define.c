@@ -1,3 +1,11 @@
+
+#ifndef ADDR_SIZE
+#define ADDR_SIZE 2
+#endif
+
+int is_i2c_read(struct i2c_client *client, u16 addr, u8 *data);
+int is_i2c_write(struct i2c_client *client, u16 addr, u8 data);
+
 /*
  * Samsung Exynos5 SoC series FIMC-IS driver
  *

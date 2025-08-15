@@ -17,48 +17,33 @@
 #
 # SPDX-License-Identifier: GPL-2.0
 #
+# ARM GPU configuration
 #
 
 menu "ARM GPU Configuration"
 
 choice
-	prompt "Mali Version Configuration"
-	default MALI_DDK_VALHALL_R32P1 if $(SEC_BUILD_CONF_VENDOR_BUILD_OS) <= 12
-	default MALI_DDK_VALHALL_R32P1 if $(SEC_BUILD_CONF_VENDOR_BUILD_OS) = 13
-	default MALI_DDK_VALHALL_R38P0 if $(SEC_BUILD_CONF_VENDOR_BUILD_OS) >= 14
+    prompt "Mali Version Configuration"
+    default MALI_DDK_VALHALL_R32P1 if SEC_BUILD_CONF_VENDOR_BUILD_OS <= 12
+    default MALI_DDK_VALHALL_R32P1 if SEC_BUILD_CONF_VENDOR_BUILD_OS = 13
+    default MALI_DDK_VALHALL_R38P0 if SEC_BUILD_CONF_VENDOR_BUILD_OS >= 14
 
-	help
-	  Select Mali GPU driver version.
+    help
+      Select Mali GPU driver version.
 
 config MALI_DDK_NONE
-	bool "None"
-
-config MALI_DDK_VALHALL_R20P0
-	bool "Valhall r20p0"
-
-config MALI_DDK_VALHALL_R23P0
-	bool "Valhall r23p0 driver"
-
-config MALI_DDK_VALHALL_R24P0
-	bool "Valhall r24p0 driver"
-
-config MALI_DDK_VALHALL_R25P1
-	bool "Valhall r25p1 driver"
-
-config MALI_DDK_VALHALL_R26P0
-	bool "Valhall r26p0 driver"
+    bool "None"
 
 config MALI_DDK_VALHALL_R32P1
-	bool "Valhall r32p1 driver"
+    bool "Mali DDK Valhall R32P1"
 
 config MALI_DDK_VALHALL_R38P0
-	bool "Valhall r38p0 driver"
-
-config MALI_DDK_VALHALL_R38P1
-	bool "Valhall r38p1 driver"
+    bool "Mali DDK Valhall R38P0"
 
 endchoice
+endmenu   # closes "ARM GPU Configuration" menu
 
+# Source driver subfolders based on choice selection
 if MALI_DDK_VALHALL_R20P0
 source "drivers/gpu/arm/v_r20p0/Kconfig"
 endif
@@ -91,4 +76,3 @@ if MALI_DDK_VALHALL_R38P1
 source "drivers/gpu/arm/bv_r38p1/Kconfig"
 endif
 
-endmenu
